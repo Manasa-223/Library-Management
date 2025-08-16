@@ -29,4 +29,3 @@ Usage
     - Exit
 
 
-Feel free to customize it to fit your needs!
